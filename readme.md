@@ -6,16 +6,15 @@ Welcome to the divStays app documentation. divStays is a user-friendly hotel man
 
 divStays Application is built using the following technologies and libraries:
 
-- **React:** JavaScript library for UI development.
-- **Supabase:** Cloud database service for real-time and secure data storage.
-- **@tanstack/react-query:** Data-fetching and state management library for React.
-- **date-fns:** JavaScript date utility library for parsing, formatting, and manipulating dates.
-- **react-router-dom:** Library for routing and navigation in React apps.
-- **recharts:** Composable charting library for React.
-- **styled-components:** CSS-in-JS library for styling React components.
-- **react-hot-toast:** Customizable toast notification library for React.
-- **react-icons:** Collection of customizable icons for React apps.
-- **react-hook-form:** Library for form state management and validation in React.
+- **1. React:** JavaScript library for UI development.
+- **2. Supabase:** Cloud database service for real-time and secure data storage.
+- **3. @tanstack/react-query:** Data-fetching and state management library for React.
+- **4. react-router-dom:** Library for routing and navigation in React apps.
+- **5. recharts:** Composable charting library for React.
+- **6. styled-components:** CSS-in-JS library for styling React components.
+- **7. react-hot-toast:** Customizable toast notification library for React.
+- **8. react-icons:** Collection of customizable icons for React apps.
+- **9. react-hook-form:** Library for form state management and validation in React.
 
 ## Key Features 📝
 
