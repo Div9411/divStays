@@ -57,9 +57,10 @@ divStays Application is built using the following technologies and libraries:
 - Users can define application-wide settings: breakfast price, min and max nights/booking, max guests/booking.
 - Dark mode available.
 
-## 🎮 Demo Account
+## Demo Account
 
 You can access our application using the following demo account:
 
 - **Email Address:** divyansh@example.com
 - **Password:** divyansh9411
+
