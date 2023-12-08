@@ -1,6 +1,6 @@
 # divStays
 
-Welcome to the divStays app documentation. divStays is a user-friendly hotel management application designed to streamline hotel operations, including sales statistics, cabin management, user management, booking management, and various customization options. It integrates authentication, database storage, and dark mode features, among other functionalities.
+Welcome to the divStays app documentation. DivStays is a user-friendly hotel management application designed to streamline hotel operations, including sales statistics, cabin management, user management, booking management, and various customization options. It integrates authentication, database storage, and dark mode features, among other functionalities.
 
 ## 💻 Technology Used
 
