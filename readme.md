@@ -1,8 +1,3 @@
-You can access our application using the following demo account:
-
-- **Email Address:** divyansh@example.com
-- **Password:** divyansh9411
-
 # divStays
 
 Welcome to the divStays app documentation. DivStays is a user-friendly hotel management application designed to streamline hotel operations, including sales statistics, cabin management, user management, booking management, and various customization options. It integrates authentication, database storage, and dark mode features, among other functionalities.
@@ -61,6 +56,12 @@ divStays Application is built using the following technologies and libraries:
 
 - Users can define application-wide settings: breakfast price, min and max nights/booking, max guests/booking.
 - Dark mode available.
+  
+
+## You can access my application using the following demo account:
+
+- **Email Address:** divyansh@example.com
+- **Password:** divyansh9411
 
 
 
